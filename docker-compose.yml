@@ -15,7 +15,7 @@ services:
       - natega-net
 
   natega-api:
-    build: ./El-Youm-8-web-app
+    image: yusufhussien/natega-api:1.0
     container_name: natega-api
     depends_on:
       - postgres
@@ -30,7 +30,7 @@ services:
 
 
   natega-bot:
-    build: ./El-Youm-8-telegram-bot
+    image: yusufhussien/natega-bot:1.0
     container_name: natega-bot
     depends_on:
       - natega-api

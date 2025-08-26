@@ -65,14 +65,14 @@ el-youm-8/
 
 ### 1. Clone the Repository (with submodules)
 ```bash
-git clone --recurse-submodules https://github.com/Yusuf-Hussien/El-Youm-8.git
+git clone https://github.com/Yusuf-Hussien/El-Youm-8.git
 cd El-Youm-8
 ```
 
 
 ### 2. Run with Docker (Recommended for Production)
 ```bash
-docker-compose up --build
+docker-compose up
 ```
 
 This will start the application, database, and required services.
