@@ -1,0 +1,6 @@
+[submodule "El-Youm-8-web-app"]
+	path = El-Youm-8-web-app
+	url = https://github.com/Yusuf-Hussien/El-Youm-8-web-app
+[submodule "El-Youm-8-telegram-bot"]
+	path = El-Youm-8-telegram-bot
+	url = https://github.com/Yusuf-Hussien/El-Youm-8-telegram-bot
