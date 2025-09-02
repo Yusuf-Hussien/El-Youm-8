@@ -4,3 +4,5 @@
 [submodule "El-Youm-8-telegram-bot"]
 	path = El-Youm-8-telegram-bot
 	url = https://github.com/Yusuf-Hussien/El-Youm-8-telegram-bot
+
+# for Pulling latest update for microservices run that:  git submodule update --remote --merge
